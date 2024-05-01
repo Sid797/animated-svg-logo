@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Animated-Svg-Logo
 
-![Image Alt Text](Screenshot-for-readme)
+![Image Alt Text](Screenshot-for-readme
+
+The raw SVG image file is in Public folder
 
 ## Features
 •	Infinite looping pulsating animation.
