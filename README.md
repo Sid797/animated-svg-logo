@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Features
 •	Infinite looping pulsating animation.
+
 •	When hovered over the logo,it stops pulsating and brightens up.
 •	When hovered over the logo, GrainBazaar text appears to increase more user interactivity.
 •	The text appears and disappears in a fade animation.
